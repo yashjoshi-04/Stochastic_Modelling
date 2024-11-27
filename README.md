@@ -1,7 +1,3 @@
-# QF620 Stochastic Modelling in Finance
-
----
-
 ## 📖 **Project Overview**
 This project explores advanced option pricing, calibration, and hedging techniques under various stochastic models. The primary focus is on vanilla and digital options, model calibration using implied volatility smiles, and dynamic delta hedging strategies.
 
